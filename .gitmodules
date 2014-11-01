@@ -1,0 +1,9 @@
+[submodule "scrum-pomodoro-data-manager"]
+	path = scrum-pomodoro-data-manager
+	url = https://github.com/onc4hy/scrum-pomodoro-data-manager
+[submodule "scrum-pomodoro-rest-server"]
+	path = scrum-pomodoro-rest-server
+	url = https://github.com/onc4hy/scrum-pomodoro-rest-server
+[submodule "scrum-pomodoro-mobile-client"]
+	path = scrum-pomodoro-mobile-client
+	url = https://github.com/onc4hy/scrum-pomodoro-mobile-client
