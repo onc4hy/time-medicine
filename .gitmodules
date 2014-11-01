@@ -7,3 +7,6 @@
 [submodule "scrum-pomodoro-mobile-client"]
 	path = scrum-pomodoro-mobile-client
 	url = https://github.com/onc4hy/scrum-pomodoro-mobile-client
+[submodule "back-evolution"]
+	path = back-evolution
+	url = https://github.com/onc4hy/back-evolution
