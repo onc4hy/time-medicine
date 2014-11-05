@@ -47,10 +47,17 @@
     * 心情解决方案：
         * 软件方案
             * 移动端项目
-
-### tips[提示]:
+### 相关文档
+ * API文档
+   * 服务端API <https://github.com/onc4hy/scrum-pomodoro-rest-server/blob/master/docs/api.md>
+   
+### 提示
   因为主控项目采用子模块方式链接，所以在clone后，默认并没有更新子模块内容，需要的话，大约还需要操作一下
+  
   `git submodule init`
+  
   `git submodule update`
+  
   或者直接
+  
   `git submodule update --init`
